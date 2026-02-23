@@ -1,5 +1,5 @@
 # 🤖 Vision-Based Zero Sensor Autonomous Robot
-![ROBOT FOLLOWING THE WAYPOINTS]()
+![ROBOT FOLLOWING THE WAYPOINTS](images/02.png)
 Autonomous Path Following using **ESP32 + OpenCV + ArUco Markers**
 No ultrasonic. No IR. No encoders. **Zero onboard sensors.**
 
